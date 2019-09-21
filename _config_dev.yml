@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: shivani kanswal
+title: Shivani Kanswal | Computer Science and Engineering Student
+description: 3rd year student at Graphic Era Hill University
+url: https://shivanikanswal.me
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: shivanikanswal@gmail.com
+cover: https://shivanikanswal.me/img/og.png
+logo: https://shivanikanswal/img/emojis/technologist.png
+resume: https://shivanikanswal.me/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:shivanikanswal@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/#
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/kasnwal_shivani
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/shivanikanswal
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/shivanikanswal
 
 # Build settings
 markdown: kramdown

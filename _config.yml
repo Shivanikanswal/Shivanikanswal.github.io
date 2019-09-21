@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
+name: shivani kanswal
 title: Hello World!
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://saurabhkanswal.me
+url: https://shivanikanswal.me
 baseurl: ""
-email: saurabhkanswal8101@gmail.com
-# cover: https://brittanychiang.com/img/og.png
-# logo: https://brittanychiang.com/img/emojis/technologist.png
-# resume: https://brittanychiang.com/resume.pdf
+email: shivanikanswal@gmail.com
+# cover: https://shivanikanswal.me/img/og.png
+# logo: https://shivanikanswal/img/emojis/technologist.png
+# resume: https://shivanikanswal/resume.pdf
 social:
   - title: email
-    url: mailto:saurabhkanswal8101@gmail.com
+    url: mailto:shivanikanswal@gmail.com
   - title: twitter
-    url: https://twitter.com/kanswal_saurabh
+    url: https://twitter.com/shivanikanswal
   - title: instagram
-    url: https://instagram.com/saurabhkanswal
+    url: https://instagram.com/shivanikanswal
   - title: codepen
-    url: http://codepen.io/saurabhkanswal
+    url: http://codepen.io/
   - title: github
-    url: https://github.com/saurabhkanswal
+    url: https://github.com/shivanikanswal
   - title: linkedin
-    url: https://www.linkedin.com/in/saurabhkanswal
+    url: https://www.linkedin.com/in/shivanikanswal
 
 # Build settings
 markdown: kramdown
